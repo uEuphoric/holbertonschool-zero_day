@@ -1,2 +1,3 @@
 echo "This is the README for the git directory" > git/README.md
+ls git
 
